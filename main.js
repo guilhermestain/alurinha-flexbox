@@ -9,7 +9,7 @@ if('serviceWorker' in navigator){
   })
 }
 
-letmyPrompt;
+let myPrompt;
 const pwaAlert = document.querySelector('.pwa__alert');
 const btnPwa = document.querySelector('.pwa__alert__btn');
 
