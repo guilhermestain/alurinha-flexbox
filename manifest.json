@@ -1,5 +1,6 @@
 {
   "name": "Alura",
+  "scope": "/",
   "short_name": "Alurinha",
   "start_url": "/index.html",
   "theme_color": "#5E9DDC",
