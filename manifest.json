@@ -1,0 +1,9 @@
+{
+  "name": "Alura",
+  "short_name": "Alurinha",
+  "start_url": "/index.html",
+  "theme_color": "#5E9DDC",
+  "background_color": "#5E9DDC",
+  "display": "standalone",
+  "orientation": "portrait"
+}
