@@ -1,7 +1,7 @@
 {
   "name": "Alura",
   "short_name": "Alurinha",
-  "start_url": "/index.html",
+  "start_url": "stain.netlify.com",
   "theme_color": "#5E9DDC",
   "background_color": "#5E9DDC",
   "display": "standalone",
