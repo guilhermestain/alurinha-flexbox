@@ -1,0 +1,15 @@
+{
+  "short_name": "Alura",
+  "name": "Alurinha",
+  "icons": [
+    {
+      "src": "book.png",
+      "sizes": "512X512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
